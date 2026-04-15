@@ -69,13 +69,14 @@ O sistema foi construído seguindo lógicas reais da indústria:
 
 ## Repositório:
 
-1. Execute o comando:
+1. Execute o Comando:
 ```bash
-git clone https://github.com/icarodev10/SGMI.git
+git clone https://github.com/Marcos-Cavalaro/Sistema-Gestao-Manutencao-Industrial.git
 ```
-2. Execute o comando:
+
+2. Execute o Comando:
 ```bash
-cd SGMI
+cd Sistema-Gestao-Manutencao-Industrial
 ```
 
 ### 1. Banco de Dados

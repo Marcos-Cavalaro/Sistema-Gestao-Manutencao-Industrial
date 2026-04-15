@@ -1,1 +1,0 @@
-# Sistema-Gestao-Manutencao-Industrial
